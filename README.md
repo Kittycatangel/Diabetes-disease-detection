@@ -15,6 +15,12 @@ b) K-nearest neghbor
 
 c) Support vector machines: linear and RBF kernel
 
+# Find the best correlated factors for diabetes 
+
+To find the correlated factors, we can use corr() and build he correlation matrix.
+
+The 3 top correlated facors the most influential on diabetes are: glucosee, age and BMI. Therefore we will include only these factors in our model.
+
 # Logistc regression
 
 The result of training the model should use an average of 0.7617737525632263.
