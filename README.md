@@ -1,11 +1,13 @@
 # Diabetes-disease-detection
 
+The data source is from kaggle and the csv file of diabetes data is found in this repository. The code snippet of the following  project is found also on this repository as " Untitled.iypnb".
+
 # Goal
 
 Our objective is to detect diabetes with precision and accuracy.
 Therefore, we are going to build machine learning algorithims to predict the disease.
 
-Three models:
+Three machine models:
 
 a) Logistcs regression
 
